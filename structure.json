@@ -2,27 +2,27 @@
     "betterttv": {
         "format": "BetterTTV",
         "name": "betterttv",
-        "count": 91963
+        "count": 97294
     },
     "frankerfacez": {
         "format": "FrankerFaceZ",
         "name": "frankerfacez",
-        "count": 130068
+        "count": 137622
     },
     "goodgame": {
         "format": "GoodGame.ru",
         "name": "goodgame",
-        "count": 2734
+        "count": 2857
     },
     "kraken": {
         "format": "Twitch.tv Full",
         "name": "kraken",
-        "count": 743186
+        "count": 840656
     },
     "peka2tv": {
         "format": "Peka2TV",
         "name": "peka2tv",
-        "count": 881
+        "count": 884
     },
     "regex": {
         "format": "Twitch.tv Basic",
